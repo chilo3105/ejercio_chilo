@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+
+        android:id="@+id/perfilFragment"
+        android:title="Perfil"
+        android:icon="@drawable/perfil_icon"
+        />
+    <item
+
+        android:id="@+id/searchFragment"
+        android:title="Buscar"
+        android:icon="@drawable/search_icon"
+        />
+    <item
+
+        android:id="@+id/menuprincipalFragment"
+        android:title="Menu Principal"
+        android:icon="@drawable/menu_principal_icon"
+        />
+    <item
+
+        android:id="@+id/carritoFragment"
+        android:title="Carrito de compras"
+        android:icon="@drawable/carrito_icon"
+
+        />
+</menu>
